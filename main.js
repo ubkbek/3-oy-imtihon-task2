@@ -47,34 +47,3 @@ function sumSalary(object) {
 //take out to console
 console.log(sumSalary(users));
 console.log(avarageAge(users));
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//
-// function avarageAge(item2) {
-
-  	// Shu yerga kod yozasiz
-
-    // return //Bu yerga userlarni o'rtasha yoshini chiqarasiz
-// }
-
-
-// console'dagi natija
-// console.log(sumSalary(users));
-//--> 2700
-
-// console.log(avarageAge(users));
-//--> 28
